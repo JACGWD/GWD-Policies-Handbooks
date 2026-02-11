@@ -1,0 +1,3 @@
+# When do I know if I have a contract for next semester?
+
+Usually about midway through the previous semester. The department chairs will present the workloads for the following semester at a department meeting. The availability of a contract depends on the number of courses, sections, students we are teaching, the amount of release taken by department teachers, the amount of leave (medical or otherwise) taken by department teachers. Roughly, it amounts to the number of POSTES + the amount of partial workload available.

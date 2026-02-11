@@ -75,3 +75,8 @@ Implemented for Fall 2026
 [Student Code of Ethical Conduct](./ipesa/student-code-of-ethical-conduct.md) 
 
 [Course Outline Committee](./committees/course-outline-committee.md)
+
+
+## Guidebooks
+
+[New Teacher Guidebook](./new-teacher-guidebook/new-teacher-guidebook.md)

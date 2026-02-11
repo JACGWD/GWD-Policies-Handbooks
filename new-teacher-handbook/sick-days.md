@@ -1,0 +1,3 @@
+# How do sick days work?
+
+Sick days only need to be reported if you are cancelling your classes. If you are ONLY cancelling your class but still intend to WFH you can claim a half day. Sick days are paid from your sick day bank (you can see how many you have banked on your pay stub). If you are sick longer than 5 days you need to file for short term leave. If you have run out of sick days you can either go on medical leave or if it is only one day you simply don't get paid. Leftover sick days can all be used when you retire, a lot of teachers use them as part of their reduced workload strategy.

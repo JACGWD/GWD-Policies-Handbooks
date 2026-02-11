@@ -1,0 +1,36 @@
+# New Teacher FAQs
+
+> ## Disclaimer 
+> If the information here differs from that in the Collective Agreement, College, or department policies, those official 
+> documents should be considered to have the correct information over this FAQ. 
+
+- [I started teaching and don’t have any official contract yet?!](./no-official-contract.md)
+- [When and how do I get evaluated?](./when-do-I-get-evaluated.md)
+- [What is a POSTE?](./what-is-a-poste.md)
+- [How does tenure work?](./tenure.md)
+- [Will I get paid in the summer?](./pay-in-the-summer.md)
+- [What is CI?](./what-is-ci.md)
+- [When do I know if I have a contract for next semester?](./contract-next-semester.md)
+- [How do I suggest a company I know for potential internships for our students?](./suggest-company-for-stage.md)
+- [What does a typical workload in our department look like?](./typical-workload.md)
+- [Who gets available contracts first?](./who-gets-contract-first.md)
+- [I see more names on the seniority list that I do not recognize, who are these people?](./names-on-seniority-list.md)
+- [What happens if I catch a student cheating or plagiarizing?](./catch-student-plagiarism.md)
+- [What hours am I available to the College - what are my working hours?](./availability.md)
+- [What if I want to take time off outside of the summer non-availability period?](./time-off-during-availability.md)
+- [Where do I see the collective agreement?](./collective-agreement.md)
+- [What is the Union structure?](./union-structure.md)
+- [How does parking work?](./parking.md)
+- [Can I access the JAC gym or fitness classes?](./fitness.md)
+- [Teaching a complementary course](./teaching-complementary-course.md)
+- [How do sick days work?](./sick-days.md)
+- [How do student stages/internships work?]()
+- [What is stage mentoring and who does it?]()
+- [What is an FTE?]()
+- [How many office hours do I need to provide?](./office-hours.md)
+- [How much flexibility do I have as a teacher?](./flexibility.md)
+- [Does ContEd work help seniority?](./conted-work-and-seniority.md)
+- [What is the Access Center](./access-center.md)
+- [How do I know if students need accommodations?](./student-accomodations.md)
+- [Applying to postings](./applying-to-postings.md)
+- [GWD complementary courses](./complementary-courses.md)
