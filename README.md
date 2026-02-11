@@ -79,4 +79,4 @@ Implemented for Fall 2026
 
 ## Guidebooks
 
-[New Teacher Handbook](./new-teacher-guidebook/new-teacher-handbook.md)
+[New Teacher Handbook](./new-teacher-handbook/new-teacher-handbook.md)
