@@ -1,10 +1,11 @@
 # GWD Policies Handbooks
-JAC GWD departmental policies & handbooks
+
+JAC GWD departmental handbooks
+
+[New Teacher Handbook](./new-teacher-handbook/new-teacher-handbook.md)
 
 
 # GWD Rules, Policies and Procedures
-
-Implemented for Fall 2026
 
 ## General
 
@@ -75,8 +76,3 @@ Implemented for Fall 2026
 [Student Code of Ethical Conduct](./ipesa/student-code-of-ethical-conduct.md) 
 
 [Course Outline Committee](./committees/course-outline-committee.md)
-
-
-## Guidebooks
-
-[New Teacher Handbook](./new-teacher-handbook/new-teacher-handbook.md)
