@@ -1,6 +1,4 @@
-# GWD Policies Handbooks
-
-JAC GWD departmental handbooks
+# GWD Departmental Handbooks
 
 [New Teacher Handbook](./new-teacher-handbook/new-teacher-handbook.md)
 
