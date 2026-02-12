@@ -7,10 +7,10 @@ The GWD Day Division Seniority List  (as opposed to JAC union seniority) is as f
 | Jan Richman | yes | Winter 1987 |
 | Rick Rock  | yes | |
 | Eric Girouard  | yes |  Fall 2001 |
-| Kellie-Rae Ryan |  yes | 
+| Kellie-Rae Ryan |  yes | |
 | Belinda Gare  | yes | Fall 2014 |
 | Ian Rogers |  yes |  Winter 2017 |
-| Corinne Pant |  yes | |
+| Corinne Pant |  yes | Winter 2018 |
 | Sebrina Jones | no | |
 | Jodie Hebert | no | | 
 | Anthony Lum  | no | Fall 2025 | 
